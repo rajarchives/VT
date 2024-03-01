@@ -1,0 +1,86 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Colors_HD
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1477" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Colors_Cineplex
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1450" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Rishtey_Cineplex
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1763" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1145" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=MTV_HD_Plus
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="753" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=MTV_Beats_HD
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1400" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats SD
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=MTV_Beats
+
+
+#EXTINF:-1 tvg-id="1400" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats SD
+
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/index.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="547" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Sonic_Nickelodeon
+
+#EXTINF:-1 tvg-id="545" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Nick_Hindi_voot_MOB/Fallback/index.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="544" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Nick_Junior
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1226" group-title="VOOT" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Nick_HD_Plus
+
+
+#EXTVLCOPT:http-referrer=https://mymhdtvworld.com/vt/play.php?watch=Colors_HD
+
+#EXTINF:-1 tvg-id="1370" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+
+https://mymhdtvworld.com/vt/stream.m3u8?id=Colors_Rishtey
